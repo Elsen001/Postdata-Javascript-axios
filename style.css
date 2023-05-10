@@ -1,0 +1,16 @@
+.box{
+    width: 500px;
+    height: 400px;
+    background-color: red;
+    margin: 110px auto;
+    
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    background-color: aqua;
+}
+.box input,button{
+    padding: 10px;
+}
